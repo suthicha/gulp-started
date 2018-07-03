@@ -1,4 +1,4 @@
-# Gulp-Started
+# Gulp Started
 Gulp start project template for web designer or developer.
 
 ### Installing
